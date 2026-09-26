@@ -43,7 +43,7 @@ search on google "decode flask session token" and paste the session token to get
 when sucessfuly logged in you will find the flag
 
 ## Flag
-picoCTF{***}
+picoCTF{***}.
 
 ## Takeaway
 how to decrypt a leaked data base
