@@ -18,5 +18,5 @@ picoCTF{*****}
 
 ## Takeaway
 tools available on cyberchef and the download feature in the website 
-recognizing the garbage text (raw bite data) format of jpg header 
+recognizing the garbage text (raw bite data) format of jpg header .
 
